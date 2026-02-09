@@ -1,3 +1,9 @@
 [submodule "whitelist-transfer-hook"]
 	path = whitelist-transfer-hook
 	url = https://github.com/Shuva15/whitelist-transfer-hook
+[submodule "escrow-litesvm"]
+	path = escrow-litesvm
+	url = https://github.com/Shuva15/escrow-litesvm.git
+[submodule "accel-week1-challenge"]
+	path = accel-week1-challenge
+	url = https://github.com/Shuva15/accel-week1-challenge.git
